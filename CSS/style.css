@@ -1,0 +1,34 @@
+body{
+	background-color: #7feee7;
+	font-style: "Times New Roman";
+	font-color: #333333; 
+	margin: 0; padding: 0;
+}
+header{
+	background-color: #d21034;
+}
+h1{
+	background-color: #333333;
+	font-size: 28px;
+}
+h2{
+	font-size: 24px;
+}
+.container{
+	margin: 0 auto;
+}
+#main-bio{
+	float: left;
+	width: 70%;
+}
+#contact-info{
+	float: left;
+	width: 70%;
+}
+#bio-image{
+	float: left;
+	width: 200px;
+	margin-right: 20;
+}
+
+
